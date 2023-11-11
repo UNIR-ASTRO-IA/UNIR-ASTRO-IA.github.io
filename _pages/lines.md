@@ -1,5 +1,4 @@
 ---
-permalink: /research/lines
 defaults:
   # _pages
   - scope:
