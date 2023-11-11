@@ -6,6 +6,7 @@ categories: image paper arxiv
 ---
 
 # Star-Image Centering with Deep Learning: HST/WFPC2 Images
+## New Preprint
 Dana I. Casetti-Dinescu, Terrence M. Girard, Roberto Baena-Galle, Max Martone, Kate Schwendemann
 
 ## New preprint: https://arxiv.org/abs/2303.03346
