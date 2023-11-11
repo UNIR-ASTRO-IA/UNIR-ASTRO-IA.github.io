@@ -1,5 +1,6 @@
 ---
 title: "Our team"
+author_profile: true
 layout: splash
 permalink: /team/
 date: 2023-11-12T11:48:41+01:00
