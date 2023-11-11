@@ -134,7 +134,7 @@ author:
 footer:
   links:
     - label: "UNIR"
-      icon: "globe"
+      icon: "fa-globe"
       url: "https://www.unir.net/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
