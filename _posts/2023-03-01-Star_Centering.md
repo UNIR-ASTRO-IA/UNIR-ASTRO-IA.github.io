@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "GAN for denoising of galaxy images"
+title: "Star-Image Centering with Deep Learning: HST/WFPC2 Images"
 date: 2023-11-11 20:00:00 +01:00
-categories: image galaxies gan
+categories: image paper arxiv
 ---
 
 # Star-Image Centering with Deep Learning: HST/WFPC2 Images
 Dana I. Casetti-Dinescu, Terrence M. Girard, Roberto Baena-Galle, Max Martone, Kate Schwendemann
+
 ## New preprint: https://arxiv.org/abs/2303.03346
 
 Abstract:
