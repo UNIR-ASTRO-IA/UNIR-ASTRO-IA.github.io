@@ -1,7 +1,6 @@
 ---
 title: "Our team"
-author_profile: true
-layout: splash
+layout: pages
 permalink: /team/
 date: 2023-11-12T11:48:41+01:00
 header:
@@ -14,7 +13,7 @@ header:
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 # excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+#  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/team/roberto_baena.jpg
     alt: "Team member: Roberto Baena"
