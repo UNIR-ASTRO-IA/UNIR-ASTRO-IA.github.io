@@ -37,6 +37,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/team/javier_rainier.jpg
     alt: "Team member: Javier Rainier"
     title: "Javier Rainier"
@@ -44,7 +45,6 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: assets/images/team/fernando_lopez.jpg
     alt: "Team member: Fernando López"
     title: "Fernando López"
@@ -60,6 +60,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row3:
   - image_path: /assets/images/team/octavi_fors.jpg
     alt: "Team member: Octavi Fors"
     title: "Octavi Fors"
