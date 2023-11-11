@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Star-Image Centering with Deep Learning: HST/WFPC2 Images"
-date: 2023-11-11 20:00:00 +01:00
+date: 2023-03-01T11:48:41+01:00
 categories: image paper arxiv
 ---
 
