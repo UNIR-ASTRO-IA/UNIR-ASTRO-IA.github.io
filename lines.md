@@ -1,6 +1,6 @@
-layout: page
-title: "Research lines"
+---
 permalink: /research/lines
+---
 
 # Research lines
 
