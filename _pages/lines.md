@@ -1,4 +1,5 @@
 ---
+title: "Research lines"
 permalink: /lines/
 defaults:
   # _pages
@@ -9,7 +10,5 @@ defaults:
       layout: single
       author_profile: # true
 ---
-
-# Research lines
 
 Here we describe the research lines
