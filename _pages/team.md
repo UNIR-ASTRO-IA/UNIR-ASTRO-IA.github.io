@@ -1,6 +1,6 @@
 ---
 title: "Our team"
-layout: single
+layout: splash
 permalink: /team/
 date: 2023-11-12T11:48:41+01:00
 header:
