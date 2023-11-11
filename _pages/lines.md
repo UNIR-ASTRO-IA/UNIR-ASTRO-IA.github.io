@@ -8,7 +8,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: # true
+      author_profile: false # true
 ---
 
 Here we describe the research lines
