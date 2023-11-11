@@ -290,3 +290,8 @@ defaults:
       comments: # true
       share: true
       related: true
+footer:
+links:
+- label: "UNIR"
+  icon: "fab fa-fw fa-twitter-square"
+  url: "https://www.unir.net/"
