@@ -1,4 +1,5 @@
 ---
+permalink: /lines/
 defaults:
   # _pages
   - scope:
@@ -6,7 +7,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: # true
 ---
 
 # Research lines
