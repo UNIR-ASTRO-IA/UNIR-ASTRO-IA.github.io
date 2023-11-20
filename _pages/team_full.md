@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/images/team/roberto_baena.jpg
     alt: "Team member: Roberto Baena"
     title: "Roberto Baena"
-    excerpt: "PhD in Astronomy, Proffesor UNIR"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -26,9 +26,9 @@ feature_row:
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Team member: Alejandro Cervantes"
     title: "Alejandro Cervantes"
-    excerpt: "PhD in Computer Science Proffesor UNIR"
-    url: "https://scholar.google.com/citations?user=DqZVCY4AAAAJ&hl=es&oi=sra"
-    btn_label: "Research"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/team/rodrigo_gil.jpg
     alt: "Team member: Rodrigo Gil"
@@ -52,6 +52,22 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/team/javier_peralta.jpg
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "Team member: Javier Peralta"
+    title: "Javier Peralta"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/team/octavi_fors.jpg
+    alt: "Team member: Octavi Fors"
+    title: "Octavi Fors"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -60,13 +76,4 @@ feature_row2:
 
 {% include feature_row id="feature_row2" %}
 
-Collaborators:
-
-* Javier Peralta. UNIVERSIDAD DE SEVILLA (US). Departamento de física atómica, molecular y nuclear. Investigador EMERGIA.
-* Octavi Fors
-
-Participants in group proposals: 
-
-* Elliott P. Horch, proffesor, Southern Connecticut State University. 
-* Dana Casetti Dinescu, proffesor, Southern Connecticut State University. 
-* Cristina Martínez Lombilla, post doctoral student postdoctoral, University of New South Wales (UNSW).
+{% include feature_row id="feature_row3" %}
