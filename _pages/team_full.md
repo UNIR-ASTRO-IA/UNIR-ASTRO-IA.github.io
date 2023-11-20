@@ -77,3 +77,14 @@ feature_row3:
 {% include feature_row id="feature_row2" %}
 
 {% include feature_row id="feature_row3" %}
+
+Collaborators:
+
+* Javier Peralta. UNIVERSIDAD DE SEVILLA (US). Departamento de física atómica, molecular y nuclear. Investigador EMERGIA.
+* Octavi Fors
+
+Participants in group proposals: 
+
+* Elliott P. Horch, proffesor, Southern Connecticut State University. 
+* Dana Casetti Dinescu, proffesor, Southern Connecticut State University. 
+* Cristina Martínez Lombilla, post doctoral student postdoctoral, University of New South Wales (UNSW).

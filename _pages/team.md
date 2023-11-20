@@ -19,19 +19,19 @@ feature_row:
     alt: "Team member: Roberto Baena"
     title: "Roberto Baena"
     excerpt: "PhD in Astronomy, Proffesor UNIR"
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "https://scholar.google.com/citations?hl=es&user=b9nM1zoAAAAJ"
+    btn_label: ""Research""
     btn_class: "btn--primary"
   - image_path: /assets/images/team/alejandro_cervantes.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Team member: Alejandro Cervantes"
     title: "Alejandro Cervantes"
-    excerpt: "PhD in Computer Science Proffesor UNIR"
+    excerpt: "PhD in Computer Science, Proffesor UNIR"
     url: "https://scholar.google.com/citations?user=DqZVCY4AAAAJ&hl=es&oi=sra"
     btn_label: "Research"
     btn_class: "btn--primary"
   - image_path: /assets/images/team/rodrigo_gil.jpg
-    alt: "Team member: Rodrigo Gil"
+    alt: "Team member: Rodrigo Gil-Merino"
     title: "Rodrigo Gil"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
@@ -42,15 +42,15 @@ feature_row2:
     alt: "Team member: Javier Rainier"
     title: "Javier Rainier"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "https://scholar.google.com/citations?hl=es&user=JktZIDYAAAAJ"
+    btn_label: "Research"
     btn_class: "btn--primary"
   - image_path: assets/images/team/fernando_lopez.jpg
     alt: "Team member: Fernando López"
     title: "Fernando López"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "https://scholar.google.com/citations?hl=es&user=vqhjhV8AAAAJ"
+    btn_label: "Research"
     btn_class: "btn--primary"
 ---
 
@@ -60,13 +60,3 @@ feature_row2:
 
 {% include feature_row id="feature_row2" %}
 
-Collaborators:
-
-* Javier Peralta. UNIVERSIDAD DE SEVILLA (US). Departamento de física atómica, molecular y nuclear. Investigador EMERGIA.
-* Octavi Fors
-
-Participants in group proposals: 
-
-* Elliott P. Horch, proffesor, Southern Connecticut State University. 
-* Dana Casetti Dinescu, proffesor, Southern Connecticut State University. 
-* Cristina Martínez Lombilla, post doctoral student postdoctoral, University of New South Wales (UNSW).
