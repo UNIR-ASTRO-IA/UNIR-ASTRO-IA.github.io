@@ -2,7 +2,7 @@
 title: "Our team"
 layout: splash
 permalink: /team/
-date: 2023-11-12T11:48:41+01:00
+date: 2023-11-21T11:48:41+01:00
 header:
   # overlay_color: "#000"
   # overlay_filter: "0.5"
@@ -21,7 +21,7 @@ feature_row:
     excerpt: "PhD in Astronomy, Proffesor UNIR"
 #    url: "https://scholar.google.com/citations?hl=es&user=b9nM1zoAAAAJ"
 #    btn_label: ""Research""
-    btn_class: "btn--primary"
+#    btn_class: "btn--primary"
   - image_path: /assets/images/team/alejandro_cervantes.jpg
     alt: "Team member: Alejandro Cervantes"
     title: "Alejandro Cervantes"
