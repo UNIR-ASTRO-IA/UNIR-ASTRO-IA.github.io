@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Lines"
     url: /lines/
-  - title: "Team"
-    url: /team/
+  - title: "ADELA Team"
+    url: /project_adela_team/
   - title: "ADELA Project Results"
     url: /results/
   # - title: "Posts"
