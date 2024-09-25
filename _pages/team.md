@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/images/team/roberto_baena.jpg
     alt: "Team member: Roberto Baena"
     title: "Roberto Baena"
-#    excerpt: "PhD in Astronomy, Professor UNIR"
+    excerpt: "PhD in Astronomy, Professor UNIR"
 #    url: "https://scholar.google.com/citations?hl=es&user=b9nM1zoAAAAJ"
 #    btn_label: ""Research""
 #    btn_class: "btn--primary"
