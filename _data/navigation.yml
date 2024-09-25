@@ -6,6 +6,8 @@ main:
     url: /lines/
   - title: "Team"
     url: /team/
+  - title: "ADELA Project Results"
+    url: /results/
   # - title: "Posts"
   #   url: /year-archive/
   # - title: "Categories"
