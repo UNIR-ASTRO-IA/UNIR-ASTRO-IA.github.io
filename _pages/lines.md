@@ -36,7 +36,7 @@ This research line is currently addressing state of the art generative architect
 
 ### Galaxy image denoising using Denoising Difussion Probabilistic Models (DDPM) 
 
-![image-center](/assets/images/lines/anomaly_det_1.jpg){: .align-center} 
+![image-center](/assets/images/lines/ddpm_example_1.jpg){: .align-center} 
 
 
 This study compares the performance of DDPM and Residual Attention
