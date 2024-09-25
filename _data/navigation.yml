@@ -2,9 +2,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Lines"
+  - title: "Research Lines"
     url: /lines/
-  - title: "ADELA Team"
+  - title: "Project: ADELA"
+    url: /project_adela/
+  - title: "ADELA Project"
     url: /project_adela_team/
   - title: "ADELA Project Results"
     url: /results/
