@@ -12,6 +12,10 @@ defaults:
       author_profile: false # true
 ---
 
+# ADELA PROJECT (PP-2022-13) 
+
+Work related to the Project ADELA with reference (PP-2022-13), Universidad Internacional de la Rioja (UNIR).
+
 ## Published papers in JRC journals
 
 * [1] Casetti-Dinescu, D. I., Girard, T. M., Baena-Gallé, R., Martone, M., & Schwendemann, K. (2023). Star-image Centering with Deep Learning: HST/WFPC2 Images. Publications of the Astronomical Society of the Pacific, 135(1047), 054501. [URL](https://iopscience.iop.org/article/10.1088/1538-3873/acd080/meta)
