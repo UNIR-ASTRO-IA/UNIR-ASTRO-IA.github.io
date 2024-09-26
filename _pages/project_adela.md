@@ -20,7 +20,7 @@ PLAnetary Transits and Oscillations of stars (PLATO), etc, cuyo análisis se ant
 imprescindible con herramientas de DL, implica a su vez una imprescindible colaboración
 mano a mano entre ambas comunidades."
 intro: 
-  - excerpt: 'Este proyecto está formado por un grupo interdisciplinar de astrónomos y
+  - excerpt: 'Este proyecto está propulsado por un grupo interdisciplinar de astrónomos y
 científicos de datos que pretenden aunar esfuerzos entre ambas comunidades para obtener
 el máximo rendimiento posible de los datos astronómicos aportando soluciones de DL
 específicas a problemas determinados. En particular, y de cara a concretar objetivos
@@ -41,20 +41,13 @@ incrementar la resolución (superresolución) utilizando para ello información 
 imagen, o información procedente de varias imágenes.'
 
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+  - image_path: assets/images/adela/exoplanet.jpg
+    alt: "Exoplanet detection"
+    title: "Exoplanet detection"
+    excerpt: "Exoplanet transit detection"
+  - image_path: /assets/images/adela/GAN_recovery.jpg
+    alt: "Generative techniques for image improvement"
+    title: "Image recovery and improvement"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
@@ -63,8 +56,3 @@ feature_row:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}

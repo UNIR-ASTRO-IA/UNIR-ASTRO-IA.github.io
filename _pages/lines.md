@@ -20,11 +20,19 @@ Astronomy is a field of study as fascinating as it is complex; new techniques an
 
 In this paper, models that allow the detection of exoplanets through the analysis of light curves are investigated and compared. To achieve this, Deep Learning is used, a subtype of Machine Learning that has gained great relevance in the last decade due to its excellent capacity to detect patterns in a multitude of data, with the ultimate goal of providing a viable solution to automatically classify exoplanets correctly from its light curves.
 
+
+![image-center](/assets/images/lines/exoplanet.jpg){: .align-center} 
+
 ## Star centering problem
 
 ### Convolutional neural networks (CNN) for the start centering problem.
 
 We present an expanded and improved deep-learning (DL) methodology for determining centers of star images on Hubble Space Telescope/Wide-Field Planetary Camera 2 (WFPC2) exposures. Previously, we demonstrated that our DL model can eliminate the pixel-phase bias otherwise present in these undersampled images; however that analysis was limited to the central portion of each detector. In the current work we introduce the inclusion of global positions to account for the point-spread function (PSF) variation across the entire chip and instrumental magnitudes to account for nonlinear effects such as charge transfer efficiency. The DL model is trained using a unique series of WFPC2 observations of globular cluster 47 Tuc, data sets comprising over 600 dithered exposures taken in each of two filters—F555W and F814W. It is found that the PSF variations across each chip correspond to corrections of the order of ∼100 mpix, while magnitude effects are at a level of ∼10 mpix. Importantly, pixel-phase bias is eliminated with the DL model; whereas, with a classic centering algorithm, the amplitude of this bias can be up to ∼40 mpix. Our improved DL model yields star-image centers with uncertainties of 8–10 mpix across the full field of view of WFPC2.
+
+
+
+![image-center](/assets/images/lines/star_centering.jpg){: .align-center} 
+
 
 * [1] Casetti-Dinescu, D. I., Girard, T. M., Baena-Gallé, R., Martone, M., & Schwendemann, K. (2023). Star-image Centering with Deep Learning: HST/WFPC2 Images. Publications of the Astronomical Society of the Pacific, 135(1047), 054501. https://iopscience.iop.org/article/10.1088/1538-3873/acd080/meta 
 * [2] Casetti-Dinescu, D. I., Baena-Gallé, R., Girard, T. M., Cervantes-Rovira, A., & Todeasa, S. (2024). Star Image Centering with Deep Learning. II. HST/WFPC2 Full Field of View. Publications of the Astronomical Society of the Pacific, 136(5), 054501.  https://iopscience.iop.org/article/10.1088/1538-3873/ad430c/meta 
